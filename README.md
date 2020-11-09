@@ -1,3 +1,24 @@
-# VueTestApplication2 
-Vue.js: Creating and Hosting a Full-Stack Site (Lynda courses) 
-Got up to "Create Shopping Cart" section and currently working on it. 
+# vue-test-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
